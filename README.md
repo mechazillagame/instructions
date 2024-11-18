@@ -1,4 +1,4 @@
-![Ascend logo](assets/img/ascendLogo.png)
+![Ascend logo](transparentLogo.png)
 # 🚀 Mechazilla: The Game 🚀
 
 🎮 **What**: An educational game that simulates SpaceX's "Mechazilla" catching the Starship booster in varying weather conditions
