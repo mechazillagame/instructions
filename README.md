@@ -32,4 +32,4 @@
 
     ⬇️ **Down**: Accelerate downwards to **speed up**
 
-<a align="center"><img src="play.png" alt="Play button" width="200"></a>
+<a align="center" href="mechazillagame.github.io"><img src="play.png" alt="Play button" width="200"></a>
